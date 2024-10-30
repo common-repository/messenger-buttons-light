@@ -1,0 +1,56 @@
+.share-buttons-item > img {
+    width: 5%;
+    float: left;
+    display: block;
+}
+.panel_xtz{
+    position: relative;
+
+    padding: 20px;
+
+    margin-bottom: 20px;
+
+    border: solid 1px #d3d8db;
+
+    background-color: #fff;
+
+    -webkit-border-radius: 5px;
+
+    border-radius: 5px;
+}
+
+.table {
+
+    border-collapse: separate;
+    border-spacing: 0 2px 0 0;
+    margin-bottom: 5px;
+
+}
+.table {
+
+    width: 100%;
+    margin-bottom: 17px;
+
+}
+.table {
+
+    max-width: 100%;
+    background-color: transparent;
+}
+
+td > input{
+    width: 100%;
+}
+
+.form-group{
+    text-align: center;
+}
+.control-label.col-lg-3 , .form_header_xtz > td{
+    font-size: 20px;
+    padding-bottom: 1%;
+    text-align: center;
+}
+
+#input-position{
+    width: 25%;
+}

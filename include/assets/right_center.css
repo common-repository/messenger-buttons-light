@@ -1,0 +1,2 @@
+.share-buttons-list {position:fixed;z-index: 10001;right:0;top:50%;width:60px;}
+.share-buttons-head > .share-buttons-list { position:relative; float: left; display: block; cursor:pointer; width:60px;   }
